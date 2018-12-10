@@ -1,0 +1,1828 @@
+﻿Log file open, 12/10/18 11:33:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.890558
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.117s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.10-09.33.53:075][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.10-09.33.53:076][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:076][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:095][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.10-09.33.53:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.10-09.33.53:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.10-09.33.53:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.10-09.33.53:097][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.10-09.33.53:097][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.10-09.33.53:113][  0]LogHAL: Display: Platform has ~ 16 GB [17056251904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.10-09.33.53:113][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.10-09.33.53:113][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.10-09.33.53:113][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.10-09.33.53:114][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Scalability.ini]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.10-09.33.53:115][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.10-09.33.53:116][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.10-09.33.53:116][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Config/Windows/Engine.ini]
+[2018.12.10-09.33.53:116][  0]LogInit: Computer: TYRONEOGGEN1
+[2018.12.10-09.33.53:116][  0]LogInit: User: TyroneOggen
+[2018.12.10-09.33.53:116][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.10-09.33.53:116][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.12.10-09.33.53:117][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.10-09.33.53:117][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.10-09.33.53:117][  0]LogMemory: Process Physical Memory: 102.73 MB used, 102.73 MB peak
+[2018.12.10-09.33.53:117][  0]LogMemory: Process Virtual Memory: 84.67 MB used, 84.67 MB peak
+[2018.12.10-09.33.53:117][  0]LogMemory: Physical Memory: 7516.05 MB used,  8750.06 MB free, 16266.11 MB total
+[2018.12.10-09.33.53:117][  0]LogMemory: Virtual Memory: 532.59 MB used,  134217192.00 MB free, 134217728.00 MB total
+[2018.12.10-09.33.53:246][  0]LogInit: Using OS detected language (en-US).
+[2018.12.10-09.33.53:246][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.10-09.33.53:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.10-09.33.53:871][  0]LogStreaming: Display: Took  0.625s to InitEngineTextLocalization.
+[2018.12.10-09.33.53:872][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.10-09.33.53:943][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.10-09.33.53:943][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.10-09.33.54:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.10-09.33.54:442][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.10-09.33.54:464][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.12.10-09.33.54:464][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x8086
+[2018.12.10-09.33.54:471][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.10-09.33.54:471][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.10-09.33.54:471][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.10-09.33.54:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.10-09.33.54:486][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.10-09.33.54:486][  0]LogWindows: EnumDisplayDevices:
+[2018.12.10-09.33.54:486][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2018.12.10-09.33.54:487][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.12.10-09.33.54:488][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2018.12.10-09.33.54:488][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.10-09.33.54:488][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.12.10-09.33.54:488][  0]LogD3D11RHI:   Driver Version: 22.20.16.4836 (internal:22.20.16.4836, unified:22.20.16.4836)
+[2018.12.10-09.33.54:488][  0]LogD3D11RHI:      Driver Date: 10-17-2017
+[2018.12.10-09.33.54:488][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.12.10-09.33.54:640][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2018.12.10-09.33.54:640][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.10-09.33.54:652][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.12.10-09.33.56:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.10-09.33.56:679][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.10-09.33.56:696][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.10-09.33.56:713][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.10-09.33.56:751][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.10-09.33.56:768][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.10-09.33.56:788][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.10-09.33.56:803][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.10-09.33.56:814][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.10-09.33.56:891][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.10-09.33.56:964][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.10-09.33.56:964][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.10-09.33.56:992][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.10-09.33.56:992][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.10-09.33.57:008][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.10-09.33.57:025][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.10-09.33.57:040][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.10-09.33.57:056][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.10-09.33.57:103][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.10-09.33.57:103][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.10-09.33.57:103][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.10-09.33.57:272][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../Users/Tyrone.Oggen/Desktop/AV/Intermediate/Shaders/WorkingDirectory/20660/).
+[2018.12.10-09.33.57:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyrone.Oggen/AppData/Local/Temp/UnrealShaderWorkingDir/5D8B67D2428B5BCCAB52869FBA7C747F/'.
+[2018.12.10-09.33.57:275][  0]LogXGEController: Cleaning working directory: C:/Users/Tyrone.Oggen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.10-09.33.57:275][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.10-09.33.57:275][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.10-09.33.57:275][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.10-09.33.57:920][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: Loaded boot cache 0.25s 71MB C:/Users/Tyrone.Oggen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyrone.Oggen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tyrone.Oggen/Desktop/AV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tyrone.Oggen/Desktop/AV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.10-09.33.58:169][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.10-09.33.58:187][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.10-09.33.58:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.10-09.33.58:188][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.10-09.33.58:201][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyrone.Oggen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.10-09.33.58:201][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.10-09.33.58:201][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.10-09.33.58:227][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.10-09.33.58:229][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.10-09.33.58:231][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.10-09.33.58:400][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2018.12.10-09.33.58:895][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.10-09.33.59:162][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.10-09.33.59:194][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.10-09.33.59:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.10-09.33.59:194][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.10-09.33.59:194][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.10-09.33.59:217][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2018.12.10-09.33.59:986][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.124675 seconds
+[2018.12.10-09.33.59:997][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.10-09.33.59:997][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.10-09.33.59:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.10-09.34.02:368][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.10-09.34.02:385][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.10-09.34.03:326][  0]SourceControl: Source control is disabled
+[2018.12.10-09.34.03:327][  0]SourceControl: Source control is disabled
+[2018.12.10-09.34.03:342][  0]SourceControl: Source control is disabled
+[2018.12.10-09.34.03:348][  0]SourceControl: Source control is disabled
+[2018.12.10-09.34.03:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.10-09.34.03:884][  0]LogOcInput: OculusInput pre-init called
+[2018.12.10-09.34.04:077][  0]LogEngine: Initializing Engine...
+[2018.12.10-09.34.04:078][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.10-09.34.04:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.10-09.34.04:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.10-09.34.04:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.10-09.34.04:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.10-09.34.04:335][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.10-09.34.04:361][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.10-09.34.04:399][  0]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE 20 MS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.10-09.34.04:482][  0]LogInit: FAudioDevice initialized.
+[2018.12.10-09.34.04:483][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.10-09.34.04:582][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Tyrone.Oggen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.10-09.34.04:585][  0]LogInit: Texture streaming: Enabled
+[2018.12.10-09.34.04:623][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.10-09.34.04:645][  0]LogInit: Transaction tracking system initialized
+[2018.12.10-09.34.04:696][  0]BlueprintLog: New page: Editor Load
+[2018.12.10-09.34.06:242][  0]LocalizationService: Localization service is disabled
+[2018.12.10-09.34.08:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyrone.Oggen/Desktop/AV/Content/' took 0.02s
+[2018.12.10-09.34.08:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.10-09.34.08:974][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.10-09.34.08:974][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.10-09.34.08:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.10-09.34.08:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.10-09.34.08:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.10-09.34.08:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.10-09.34.11:412][  0]SourceControl: Source control is disabled
+[2018.12.10-09.34.11:413][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.10-09.34.11:413][  0]LightingResults: New page: Lighting Build
+[2018.12.10-09.34.11:421][  0]MapCheck: New page: Map Check
+[2018.12.10-09.34.11:421][  0]LightingResults: New page: Lighting Build
+[2018.12.10-09.34.12:049][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.10-09.34.12:081][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.10-09.34.12:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.10-09.34.12:109][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2018.12.10-09.34.12:109][  0]LogFileHelpers: Loading map 'Template_Default' took 0.697
+[2018.12.10-09.34.12:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-09.34.12:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-09.34.12:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-09.34.12:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-09.34.12:369][  0]LogCollectionManager: Loaded 0 collections in 0.003322 seconds
+[2018.12.10-09.34.12:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyrone.Oggen/Desktop/AV/Saved/Collections/' took 0.01s
+[2018.12.10-09.34.12:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyrone.Oggen/Desktop/AV/Content/Developers/TyroneOggen/Collections/' took 0.01s
+[2018.12.10-09.34.12:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyrone.Oggen/Desktop/AV/Content/Collections/' took 0.01s
+[2018.12.10-09.34.12:414][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.10-09.34.12:432][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2651 classes and 620 folders.
+[2018.12.10-09.34.12:443][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.10-09.34.12:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:533][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:535][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.10-09.34.12:665][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.10-09.34.12:682][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.10-09.34.12:706][  0]LogSlate: Took 0.001123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.10-09.34.12:710][  0]LogSlate: Took 0.001067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.10-09.34.12:724][  0]LogSlate: Took 0.001106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.10-09.34.12:907][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.12.10-09.34.14:224][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.10-09.34.14:224][  0]LogLoad: (Engine Initialization) Total time: 25.41 seconds
+[2018.12.10-09.34.14:224][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.10-09.34.14:242][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.10-09.34.14:298][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.10-09.34.14:399][  2]LogAssetRegistry: Asset discovery search completed in 16.0228 seconds
+[2018.12.10-09.34.14:403][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.10-09.34.14:403][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2018.12.10-09.34.18:320][ 94]LogSlate: Took 0.001169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.10-09.34.21:447][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.34.21:546][177]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.10-09.34.22:068][177]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.12.10-09.34.22:279][177]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-09.34.22:279][177]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-09.34.23:441][177]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-09.34.23:442][177]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-09.34.23:442][177]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-09.34.23:442][177]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.12.10-09.34.23:442][177]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-09.34.23:643][177]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-09.34.23:643][177]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-09.34.23:786][177]LogAIModule: Creating AISystem for world Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-09.34.23:809][177]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-09.34.23:842][177]Cmd: MAP LOAD FILE="../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.10-09.34.23:843][177]LightingResults: New page: Lighting Build
+[2018.12.10-09.34.23:844][177]LoadErrors: New page: Loading map: Tyrone_ArchVis_Pre_Lighting.umap
+[2018.12.10-09.34.23:844][177]MapCheck: New page: Map Check
+[2018.12.10-09.34.23:844][177]LightingResults: New page: Lighting Build
+[2018.12.10-09.34.23:873][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.10-09.34.23:924][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.10-09.34.23:924][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2018.12.10-09.34.23:924][177]LogFileHelpers: Loading map 'Tyrone_ArchVis_Pre_Lighting' took 0.083
+[2018.12.10-09.34.31:291][266]MapCheck: New page: Map Check
+[2018.12.10-09.34.31:379][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-09.34.31:456][266]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-09.34.31:456][266]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-09.34.31:492][266]LightingResults: New page: Lighting Build - Dec 10, 2018, 1:34:31 PM
+[2018.12.10-09.34.31:544][266]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-09.34.31:731][266]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-09.34.31:748][266]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-09.34.32:784][266]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-09.34.32:785][266]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-09.34.36:318][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-09.34.36:318][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-09.34.36:318][266]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-09.34.36:318][266]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-09.34.36:318][266]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-09.34.36:474][266]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-09.35.13:116][640]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-09.35.13:116][640]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-09.35.13:116][640]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-09.35.13:116][640]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-09.35.13:116][640]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-09.35.14:790][645]Job is a success!
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-09.35.15:558][646]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.12.10-09.35.18:036][646]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.12.10-09.35.18:037][646]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.12.10-09.35.18:037][646]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.12.10-09.35.18:037][646]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.12.10-09.35.18:037][646]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.12.10-09.35.18:188][646]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X128)
+[2018.12.10-09.35.18:188][646]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.12.10-09.35.18:188][646]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.12.10-09.35.18:188][646]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2018.12.10-09.35.18:227][646]Lightmass on TYRONEOGGEN1: 40.4 sec total, 508 ms importing, 122 ms setup, 3.55 sec photons, 36.2 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 2:24 min total, 1:35 min processing.
+[2018.12.10-09.35.18:282][646]LogStaticLightingSystem: Illumination: 46.4 sec (2.15 sec encoding lightmaps, 146 ms encoding shadowmaps)
+[2018.12.10-09.35.18:282][646]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (4.0 MB streaming, 0.1 MB non-streaming), 10 textures
+[2018.12.10-09.35.18:282][646]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-09.35.18:358][646]DumpUnbuiltLightIteractions
+[2018.12.10-09.35.18:358][646]Lights with unbuilt interactions: 0
+[2018.12.10-09.35.18:359][646]
+[2018.12.10-09.35.18:359][646]Primitives with unbuilt interactions: 0
+[2018.12.10-09.35.18:385][647]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-09.35.18:386][647]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 1:35:18 PM
+[2018.12.10-09.35.18:392][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.451ms to complete.
+[2018.12.10-09.35.24:173][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.35.24:173][680]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-09.35.24:259][680]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-09.35.31:947][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-09.35.36:196][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-09.35.41:105][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-09.35.43:539][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.36.02:883][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.37.51:747][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.44.25:350][323]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_AutoE26CD348462C4AD75B46F884B8B712BD.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto1.umap'
+[2018.12.10-09.44.25:353][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.295
+[2018.12.10-09.44.25:353][323]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2018.12.10-09.44.31:818][385]MapCheck: New page: Map Check
+[2018.12.10-09.44.31:880][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-09.44.31:926][385]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-09.44.31:926][385]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-09.44.31:963][385]LightingResults: New page: Lighting Build - Dec 10, 2018, 1:44:31 PM
+[2018.12.10-09.44.31:974][385]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-09.44.31:981][385]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-09.44.31:981][385]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-09.44.31:984][385]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-09.44.31:984][385]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-09.44.36:534][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-09.44.36:534][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-09.44.36:534][385]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-09.44.36:534][385]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-09.44.36:534][385]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-09.44.36:939][385]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-09.44.43:441][491]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.10-09.44.55:720][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.45.07:408][695]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-09.45.07:409][695]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-09.45.07:776][696]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-09.45.07:776][696]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-09.45.07:776][696]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-09.45.09:101][700]Job is a success!
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-09.45.09:514][701]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-09.45.12:448][701]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.12.10-09.45.12:448][701]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-09.45.12:449][701]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-09.45.12:450][701]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.12.10-09.45.12:450][701]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-09.45.12:450][701]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-09.45.12:639][701]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 256X128)
+[2018.12.10-09.45.12:639][701]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2018.12.10-09.45.12:639][701]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.12.10-09.45.12:639][701]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2018.12.10-09.45.12:657][701]Lightmass on TYRONEOGGEN1: 34.4 sec total, 938 ms importing, 243 ms setup, 6.62 sec photons, 26.5 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 1:46 min total, 1:06 min processing.
+[2018.12.10-09.45.12:707][701]LogStaticLightingSystem: Illumination: 40.4 sec (2.80 sec encoding lightmaps, 187 ms encoding shadowmaps)
+[2018.12.10-09.45.12:707][701]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.4 MB streaming, 0.2 MB non-streaming), 10 textures
+[2018.12.10-09.45.12:707][701]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-09.45.13:562][701]DumpUnbuiltLightIteractions
+[2018.12.10-09.45.13:562][701]Lights with unbuilt interactions: 0
+[2018.12.10-09.45.13:562][701]
+[2018.12.10-09.45.13:562][701]Primitives with unbuilt interactions: 0
+[2018.12.10-09.45.13:856][702]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-09.45.13:856][702]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 1:45:13 PM
+[2018.12.10-09.45.13:859][702]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.212ms to complete.
+[2018.12.10-09.47.44:890][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.47.44:961][185]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-09.47.45:038][185]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-09.47.55:344][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.49.23:742][550]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.12.10-09.49.26:010][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.49.49:399][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Frame_3)
+[2018.12.10-09.49.50:448][985]Cmd: TRANSACTION UNDO
+[2018.12.10-09.49.50:448][985]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-09.50.06:500][294]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.12.10-09.50.16:988][484]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture2)
+[2018.12.10-09.50.43:969][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.54.30:272][609]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto86021223496A9394E481CC8A37DD2595.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto2.umap'
+[2018.12.10-09.54.30:278][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.284
+[2018.12.10-09.54.30:278][609]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2018.12.10-09.57.19:368][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.57.25:419][488]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture2)
+[2018.12.10-09.57.27:881][532]LogSlate: Took 0.006786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.10-09.57.28:726][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.57.33:255][631]Cmd: TRANSACTION UNDO
+[2018.12.10-09.57.33:255][631]LogEditorTransaction: Undo Edit Influence Radius
+[2018.12.10-09.57.36:202][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.10-09.57.36:863][720]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2018.12.10-09.57.54:467][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.57.58:839][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-09.58.36:055][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.04.31:040][982]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto904FB13043D9F509699983BE88B72EB7.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto3.umap'
+[2018.12.10-10.04.31:046][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.298
+[2018.12.10-10.04.31:046][982]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.298
+[2018.12.10-10.14.31:369][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.039
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: libcurl info message cache 0 (Connection 17 seems to be dead!)
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: libcurl info message cache 1 (Closing connection 17)
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.10-10.15.26:525][931]LogHttp: Warning: 000001B62E4D3B00: libcurl info message cache 4 (Closing connection 18)
+[2018.12.10-10.15.26:862][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC26EDC5D-402E-0D04-0622-A7B715808130%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=16e0407f43903eada4079e9fa207fc5a%7Cda618918db084457a3fa7cd35a711450%7C6ac1847a-fcdb-4da3-af6d-a2b25552086c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.10-10.18.58:905][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.19.14:091][ 88]Cmd: TRANSACTION UNDO
+[2018.12.10-10.19.14:091][ 88]LogEditorTransaction: Undo Set Vector Property
+[2018.12.10-10.20.19:140][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.20.38:691][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.20.50:700][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.21.00:738][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.21.51:928][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-10.24.32:718][ 28]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_AutoEE325A404E0AAEE92E76E4BA1D1BAB6A.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto4.umap'
+[2018.12.10-10.24.32:727][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.538
+[2018.12.10-10.24.32:728][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.538
+[2018.12.10-10.34.33:035][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.024
+[2018.12.10-10.44.33:684][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.050
+[2018.12.10-10.54.34:112][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.033
+[2018.12.10-11.04.34:624][109]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.027
+[2018.12.10-11.14.35:360][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.036
+[2018.12.10-11.24.35:837][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.030
+[2018.12.10-11.28.26:359][356]LogHttp: Warning: 000001B62E4D2840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.10-11.28.26:359][356]LogHttp: Warning: 000001B62E4D2840: libcurl info message cache 0 (Connection 50 seems to be dead!)
+[2018.12.10-11.28.26:360][356]LogHttp: Warning: 000001B62E4D2840: libcurl info message cache 1 (Closing connection 50)
+[2018.12.10-11.28.26:360][356]LogHttp: Warning: 000001B62E4D2840: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.10-11.28.26:360][356]LogHttp: Warning: 000001B62E4D2840: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.10-11.28.26:360][356]LogHttp: Warning: 000001B62E4D2840: libcurl info message cache 4 (Closing connection 51)
+[2018.12.10-11.28.26:360][356]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC26EDC5D-402E-0D04-0622-A7B715808130%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=16e0407f43903eada4079e9fa207fc5a%7Cda618918db084457a3fa7cd35a711450%7C6ac1847a-fcdb-4da3-af6d-a2b25552086c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.10-11.34.36:436][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.038
+[2018.12.10-11.44.37:226][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.030
+[2018.12.10-11.54.37:895][978]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.027
+[2018.12.10-12.04.41:589][761]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.059
+[2018.12.10-12.06.28:547][275]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture)
+[2018.12.10-12.07.22:041][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.07.49:741][990]MapCheck: New page: Map Check
+[2018.12.10-12.07.49:840][990]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-12.07.49:843][990]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-12.07.49:931][990]LightingResults: New page: Lighting Build - Dec 10, 2018, 4:07:49 PM
+[2018.12.10-12.07.49:960][990]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-12.07.49:972][990]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-12.07.49:972][990]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-12.07.49:981][990]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-12.07.49:981][990]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-12.07.54:518][990]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-12.07.54:519][990]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-12.07.54:519][990]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-12.07.54:519][990]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-12.07.54:519][990]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-12.07.54:817][990]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-12.08.09:729][254]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2018.12.10-12.08.21:101][461]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture2)
+[2018.12.10-12.08.55:322][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.09.02:233][123]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-12.09.02:234][123]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.09.02:234][123]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-12.09.02:234][123]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-12.09.02:234][123]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.09.03:564][127]Job is a success!
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-12.09.03:984][128]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.12.10-12.09.06:518][128]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.12.10-12.09.06:519][128]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.12.10-12.09.06:519][128]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.12.10-12.09.06:519][128]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.12.10-12.09.06:519][128]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.12.10-12.09.06:519][128]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.12.10-12.09.06:676][128]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 256X128)
+[2018.12.10-12.09.06:676][128]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2018.12.10-12.09.06:677][128]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.12.10-12.09.06:677][128]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X512)
+[2018.12.10-12.09.06:695][128]Lightmass on TYRONEOGGEN1: 1:10 min total, 669 ms importing, 146 ms setup, 8.37 sec photons, 1:00 min processing, 0 ms extra exporting [109/109 mappings]. Threads: 4:03 min total, 2:51 min processing.
+[2018.12.10-12.09.06:745][128]LogStaticLightingSystem: Illumination: 1:16 min (2.41 sec encoding lightmaps, 153 ms encoding shadowmaps)
+[2018.12.10-12.09.06:745][128]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.4 MB streaming, 0.2 MB non-streaming), 10 textures
+[2018.12.10-12.09.06:745][128]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-12.09.07:612][128]DumpUnbuiltLightIteractions
+[2018.12.10-12.09.07:612][128]Lights with unbuilt interactions: 0
+[2018.12.10-12.09.07:612][128]
+[2018.12.10-12.09.07:612][128]Primitives with unbuilt interactions: 0
+[2018.12.10-12.09.08:458][129]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-12.09.08:458][129]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 4:09:08 PM
+[2018.12.10-12.09.08:462][129]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.096ms to complete.
+[2018.12.10-12.09.27:367][275]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.09.27:386][275]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.09.40:730][546]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_SlidingDoors)
+[2018.12.10-12.09.40:916][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.09.41:935][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SlidingDoors)
+[2018.12.10-12.09.58:635][923]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture)
+[2018.12.10-12.10.04:077][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.14.13:092][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.14.30:261][402]MapCheck: New page: Map Check
+[2018.12.10-12.14.30:327][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.14.30:359][402]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-12.14.30:359][402]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-12.14.30:460][402]LightingResults: New page: Lighting Build - Dec 10, 2018, 4:14:30 PM
+[2018.12.10-12.14.30:486][402]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-12.14.30:493][402]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-12.14.30:495][402]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-12.14.30:519][402]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-12.14.30:519][402]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-12.14.35:094][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-12.14.35:094][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-12.14.35:094][402]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-12.14.35:094][402]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-12.14.35:094][402]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-12.14.35:395][402]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-12.15.26:753][503]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_AutoE2AAE3984185167F5110999A89624D5A.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto5.umap'
+[2018.12.10-12.15.26:885][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 16.200
+[2018.12.10-12.15.26:885][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 16.200
+[2018.12.10-12.15.31:515][513]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-12.15.31:515][513]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.15.31:914][514]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-12.15.31:914][514]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-12.15.31:914][514]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.15.37:360][526]Job is a success!
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.027s
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-12.15.37:839][527]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-12.15.41:701][527]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.12.10-12.15.41:702][527]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-12.15.41:702][527]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-12.15.41:702][527]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.12.10-12.15.41:703][527]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.12.10-12.15.41:703][527]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-12.15.41:705][527]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-12.15.41:706][527]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.12.10-12.15.41:706][527]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-12.15.41:706][527]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-12.15.41:909][527]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 256X128)
+[2018.12.10-12.15.41:909][527]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2018.12.10-12.15.41:909][527]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2018.12.10-12.15.41:989][527]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X512)
+[2018.12.10-12.15.42:046][527]Lightmass on TYRONEOGGEN1: 1:03 min total, 841 ms importing, 155 ms setup, 5.76 sec photons, 56.9 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 3:45 min total, 2:28 min processing.
+[2018.12.10-12.15.42:132][527]LogStaticLightingSystem: Illumination: 1:11 min (3.64 sec encoding lightmaps, 277 ms encoding shadowmaps)
+[2018.12.10-12.15.42:133][527]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.4 MB streaming, 0.2 MB non-streaming), 10 textures
+[2018.12.10-12.15.42:133][527]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-12.15.42:280][527]DumpUnbuiltLightIteractions
+[2018.12.10-12.15.42:280][527]Lights with unbuilt interactions: 0
+[2018.12.10-12.15.42:280][527]
+[2018.12.10-12.15.42:280][527]Primitives with unbuilt interactions: 0
+[2018.12.10-12.15.43:399][528]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-12.15.43:399][528]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 4:15:43 PM
+[2018.12.10-12.15.43:408][528]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.108ms to complete.
+[2018.12.10-12.16.14:362][620]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.096 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.10-12.16.46:366][880]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.16.46:391][880]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.16.57:659][ 85]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.12.10-12.17.06:918][254]Cmd: TRANSACTION UNDO
+[2018.12.10-12.17.06:918][254]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-12.17.12:284][378]MapCheck: New page: Map Check
+[2018.12.10-12.17.12:351][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.17.12:397][378]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-12.17.12:398][378]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-12.17.12:478][378]LightingResults: New page: Lighting Build - Dec 10, 2018, 4:17:12 PM
+[2018.12.10-12.17.12:502][378]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-12.17.12:513][378]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-12.17.12:514][378]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-12.17.12:536][378]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-12.17.12:536][378]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-12.17.17:272][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-12.17.17:272][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-12.17.17:272][378]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-12.17.17:272][378]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-12.17.17:272][378]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-12.17.17:765][378]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-12.18.12:003][537]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-12.18.12:003][537]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.18.12:649][539]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-12.18.12:649][539]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-12.18.12:649][539]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.18.18:542][548]Job is a success!
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-12.18.19:132][549]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.12.10-12.18.23:395][549]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.12.10-12.18.23:396][549]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.12.10-12.18.23:794][549]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 256X128)
+[2018.12.10-12.18.23:794][549]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2018.12.10-12.18.23:794][549]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2018.12.10-12.18.23:794][549]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X512)
+[2018.12.10-12.18.24:101][549]LogStaticLightingSystem: Illumination: 1:11 min (4.05 sec encoding lightmaps, 399 ms encoding shadowmaps)
+[2018.12.10-12.18.24:102][549]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.4 MB streaming, 0.2 MB non-streaming), 10 textures
+[2018.12.10-12.18.24:102][549]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-12.18.24:462][549]DumpUnbuiltLightIteractions
+[2018.12.10-12.18.24:462][549]Lights with unbuilt interactions: 0
+[2018.12.10-12.18.24:462][549]
+[2018.12.10-12.18.24:462][549]Primitives with unbuilt interactions: 0
+[2018.12.10-12.18.25:770][550]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-12.18.25:771][550]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 4:18:25 PM
+[2018.12.10-12.18.25:778][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.982ms to complete.
+[2018.12.10-12.21.31:576][135]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.21.31:639][135]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.21.35:720][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.25.40:499][286]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto69F48ABB465D22F1A41D1EA4D22DA360.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto6.umap'
+[2018.12.10-12.25.40:502][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.417
+[2018.12.10-12.25.40:502][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.417
+[2018.12.10-12.35.41:058][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.024
+[2018.12.10-12.45.41:495][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.033
+[2018.12.10-12.46.04:164][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.46.26:294][519]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2018.12.10-12.46.55:803][151]MapCheck: New page: Map Check
+[2018.12.10-12.46.55:860][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.46.55:893][151]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-12.46.55:894][151]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-12.46.55:959][151]LightingResults: New page: Lighting Build - Dec 10, 2018, 4:46:55 PM
+[2018.12.10-12.46.55:980][151]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-12.46.55:988][151]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-12.46.55:988][151]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-12.46.55:991][151]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-12.46.55:991][151]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-12.47.05:042][151]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-12.47.05:043][151]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-12.47.05:043][151]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-12.47.05:043][151]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-12.47.05:043][151]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-12.47.05:276][151]LogEditorBuildUtils: Build time 0:09
+[2018.12.10-12.47.09:188][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.47.48:623][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_SlidingDoors)
+[2018.12.10-12.47.51:277][938]Cmd: TRANSACTION UNDO
+[2018.12.10-12.47.51:277][938]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-12.47.59:298][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.48.11:497][178]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-12.48.11:497][178]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.48.11:736][179]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-12.48.11:736][179]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-12.48.11:736][179]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-12.48.16:851][189]Job is a success!
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-12.48.17:276][190]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-12.48.19:881][190]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.12.10-12.48.19:881][190]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.12.10-12.48.19:882][190]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-12.48.19:884][190]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-12.48.19:884][190]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.12.10-12.48.19:885][190]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-12.48.19:886][190]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-12.48.20:049][190]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 256X128)
+[2018.12.10-12.48.20:049][190]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2018.12.10-12.48.20:049][190]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2018.12.10-12.48.20:049][190]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X512)
+[2018.12.10-12.48.20:074][190]Lightmass on TYRONEOGGEN1: 1:13 min total, 901 ms importing, 283 ms setup, 5.10 sec photons, 1:07 min processing, 0 ms extra exporting [109/109 mappings]. Threads: 4:29 min total, 3:09 min processing.
+[2018.12.10-12.48.20:119][190]LogStaticLightingSystem: Illumination: 1:23 min (2.48 sec encoding lightmaps, 160 ms encoding shadowmaps)
+[2018.12.10-12.48.20:119][190]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.4 MB streaming, 0.2 MB non-streaming), 10 textures
+[2018.12.10-12.48.20:119][190]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.12.10-12.48.20:210][190]DumpUnbuiltLightIteractions
+[2018.12.10-12.48.20:210][190]Lights with unbuilt interactions: 0
+[2018.12.10-12.48.20:210][190]
+[2018.12.10-12.48.20:210][190]Primitives with unbuilt interactions: 0
+[2018.12.10-12.48.21:161][191]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-12.48.21:161][191]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 4:48:21 PM
+[2018.12.10-12.48.21:163][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.635ms to complete.
+[2018.12.10-12.49.32:794][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.49.32:874][420]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.49.32:967][420]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-12.49.34:195][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.49.41:929][532]LogEditorViewport: Clicking Background
+[2018.12.10-12.49.46:486][592]MapCheck: New page: Map Check
+[2018.12.10-12.49.46:570][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.49.46:642][592]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-12.49.46:643][592]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-12.49.46:669][592]LightingResults: New page: Lighting Build - Dec 10, 2018, 4:49:46 PM
+[2018.12.10-12.49.46:679][592]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-12.49.46:684][592]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-12.49.46:684][592]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-12.49.46:686][592]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-12.49.46:687][592]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-12.49.51:270][592]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2018.12.10-12.49.52:290][592]LogEditorBuildUtils: Build time 0:05
+[2018.12.10-12.49.52:302][592]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2018.12.10-12.49.55:281][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.55.46:527][672]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto7008A60C4A3FA9A6DA17039BAE28C686.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto7.umap'
+[2018.12.10-12.55.46:529][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.310
+[2018.12.10-12.55.46:529][672]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.310
+[2018.12.10-12.58.54:805][262]Cmd: TRANSACTION UNDO
+[2018.12.10-12.58.54:806][262]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.10-12.58.56:692][327]Cmd: TRANSACTION UNDO
+[2018.12.10-12.58.56:692][327]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-12.58.59:100][369]Cmd: TRANSACTION REDO
+[2018.12.10-12.58.59:100][369]LogEditorTransaction: Redo Clicking on Actors
+[2018.12.10-12.58.59:338][371]Cmd: TRANSACTION REDO
+[2018.12.10-12.58.59:338][371]LogEditorTransaction: Redo Select Brush Surface
+[2018.12.10-12.59.02:068][416]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Shelving2)
+[2018.12.10-12.59.02:240][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-12.59.08:920][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.59.19:517][729]Cmd: TRANSACTION UNDO
+[2018.12.10-12.59.19:517][729]LogEditorTransaction: Undo Create Actors
+[2018.12.10-12.59.20:756][772]Cmd: TRANSACTION UNDO
+[2018.12.10-12.59.20:756][772]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.10-12.59.22:936][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-12.59.26:043][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet2)
+[2018.12.10-12.59.26:636][871]Cmd: SELECT NONE
+[2018.12.10-12.59.28:260][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.00.26:130][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.00.48:013][683]Cmd: TRANSACTION UNDO
+[2018.12.10-13.00.48:013][683]LogEditorTransaction: Undo Move Actors
+[2018.12.10-13.01.07:494][ 65]Cmd: PARTICLE RESET SELECTED
+[2018.12.10-13.01.07:495][ 65]LogEditorServer: Exec Particle!
+[2018.12.10-13.01.10:023][103]Cmd: DELETE
+[2018.12.10-13.01.10:023][103]Cmd: ACTOR DELETE
+[2018.12.10-13.01.10:051][103]LogEditorActor: Deleted Actor: PostProcessVolume
+[2018.12.10-13.01.10:139][103]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2018.12.10-13.01.11:275][125]Cmd: TRANSACTION UNDO
+[2018.12.10-13.01.11:275][125]LogEditorTransaction: Undo Delete Actors
+[2018.12.10-13.01.23:696][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.05.47:237][231]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_AutoE28A7B7043B704A389844DAF0C95CBB2.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto8.umap'
+[2018.12.10-13.05.47:240][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.284
+[2018.12.10-13.05.47:240][231]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2018.12.10-13.14.22:084][522]Cmd: TRANSACTION UNDO
+[2018.12.10-13.14.22:084][522]LogEditorTransaction: Undo Edit Blend Weight
+[2018.12.10-13.14.23:292][581]Cmd: TRANSACTION UNDO
+[2018.12.10-13.14.23:292][581]LogEditorTransaction: Undo Edit Infinite Extent (Unbound)
+[2018.12.10-13.14.25:431][619]Cmd: TRANSACTION REDO
+[2018.12.10-13.14.25:432][619]LogEditorTransaction: Redo Edit Infinite Extent (Unbound)
+[2018.12.10-13.14.55:913][184]Cmd: TRANSACTION UNDO
+[2018.12.10-13.14.55:913][184]LogEditorTransaction: Undo Edit Temp
+[2018.12.10-13.15.19:898][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.15.20:026][898]MapCheck: New page: Map Check
+[2018.12.10-13.15.20:048][898]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-13.15.20:048][898]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-13.15.20:235][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.10-13.15.20:258][898]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-13.15.20:258][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:279][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:296][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:313][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:330][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BrickWall_Blue, compiling. 
+[2018.12.10-13.15.20:347][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:367][898]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.10-13.15.20:367][898]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.10-13.15.20:367][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.12.10-13.15.20:393][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:421][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.12.10-13.15.20:446][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:470][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.12.10-13.15.20:487][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:510][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:533][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_2_Inst, compiling. 
+[2018.12.10-13.15.20:554][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:573][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:592][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:614][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:636][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:656][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mug, compiling. 
+[2018.12.10-13.15.20:674][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Book_Mat_Inst, compiling. 
+[2018.12.10-13.15.20:690][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.12.10-13.15.20:709][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_1, compiling. 
+[2018.12.10-13.15.20:731][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FlashLight_Mat_LIT_Inst, compiling. 
+[2018.12.10-13.15.20:751][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoathookBack, compiling. 
+[2018.12.10-13.15.20:772][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coathook, compiling. 
+[2018.12.10-13.15.20:789][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Socket, compiling. 
+[2018.12.10-13.15.20:811][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.12.10-13.15.20:834][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crayon, compiling. 
+[2018.12.10-13.15.20:855][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.12.10-13.15.20:873][898]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.10-13.15.25:584][898]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.10-13.15.25:585][898]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-13.15.25:585][898]TextureStreamingBuild: Display: Compiling optional shaders took 5.370 seconds.
+[2018.12.10-13.15.26:136][898]LogLevel: Display: Export Material TexCoord Scales took 0.551 seconds.
+[2018.12.10-13.15.26:181][898]TextureStreamingBuild: Display: Build Texture Streaming took 0.044 seconds.
+[2018.12.10-13.15.26:201][898]LightingResults: New page: Lighting Build - Dec 10, 2018, 5:15:26 PM
+[2018.12.10-13.15.26:208][898]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-13.15.26:213][898]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-13.15.26:213][898]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-13.15.26:215][898]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-13.15.26:215][898]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-13.15.30:760][898]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-13.15.30:760][898]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-13.15.30:760][898]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-13.15.30:760][898]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-13.15.30:760][898]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-13.15.30:947][898]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.10-13.15.30:947][898]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 5:15:30 PM
+[2018.12.10-13.15.30:949][898]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.083ms to complete.
+[2018.12.10-13.15.30:972][898]LogEditorBuildUtils: Build time 0:10
+[2018.12.10-13.15.45:604][960]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-13.15.45:604][960]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-13.15.45:937][961]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-13.15.45:937][961]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-13.15.45:937][961]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-13.15.46:271][962]Job is a success!
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-13.15.46:733][963]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.12.10-13.15.49:228][963]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.12.10-13.15.49:376][963]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 512X128)
+[2018.12.10-13.15.49:376][963]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 32X32)
+[2018.12.10-13.15.49:377][963]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2018.12.10-13.15.49:377][963]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X512)
+[2018.12.10-13.15.49:399][963]Lightmass on TYRONEOGGEN1: 17.5 sec total, 417 ms importing, 64 ms setup, 1.70 sec photons, 15.2 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 1:01 min total, 35.9 sec processing.
+[2018.12.10-13.15.49:438][963]LogStaticLightingSystem: Illumination: 22.8 sec (2.39 sec encoding lightmaps, 145 ms encoding shadowmaps)
+[2018.12.10-13.15.49:438][963]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.4 MB streaming, 0.7 MB non-streaming), 10 textures
+[2018.12.10-13.15.49:438][963]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.12.10-13.15.49:779][963]DumpUnbuiltLightIteractions
+[2018.12.10-13.15.49:780][963]Lights with unbuilt interactions: 0
+[2018.12.10-13.15.49:780][963]
+[2018.12.10-13.15.49:780][963]Primitives with unbuilt interactions: 0
+[2018.12.10-13.15.50:712][964]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-13.15.50:713][964]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 5:15:50 PM
+[2018.12.10-13.15.50:716][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.034ms to complete.
+[2018.12.10-13.16.01:072][994]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto20C22A104CB791CC8AAD078085E7D12F.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto9.umap'
+[2018.12.10-13.16.01:074][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.264
+[2018.12.10-13.16.01:075][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2018.12.10-13.21.32:017][990]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-13.21.32:104][990]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-13.21.38:726][ 74]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting9761951C4D5355165EE03CA349ABFFC8.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting.umap'
+[2018.12.10-13.21.38:754][ 74]LogFileHelpers: Saving map 'Tyrone_ArchVis_Pre_Lighting' took 0.312
+[2018.12.10-13.21.38:759][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData" FILE="../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset" SILENT=true
+[2018.12.10-13.21.39:845][ 74]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Buil776DF5304FA106596C69B1B853B5A862.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset'
+[2018.12.10-13.21.56:450][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-13.21.57:881][387]LogEditorViewport: Clicking Background
+[2018.12.10-13.22.10:481][627]Cmd: POLY SELECT ALL
+[2018.12.10-13.22.12:686][662]Cmd: SELECT NONE
+[2018.12.10-13.22.15:255][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.22.21:173][753]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting930E1DC843EC42845EE48DA48E5C2C1E.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting.umap'
+[2018.12.10-13.22.21:219][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData" FILE="../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset" SILENT=true
+[2018.12.10-13.22.22:353][753]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_BuilD4FC13C84C37FB3F2150519B84B297B8.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset'
+[2018.12.10-13.22.24:602][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.42.16:991][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-13.42.16:992][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-13.42.17:029][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.17:029][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-13.42.17:029][327]PIE: New page: PIE session: Tyrone_ArchVis_Pre_Lighting (Dec 10, 2018, 5:42:17 PM)
+[2018.12.10-13.42.17:047][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.42.17:083][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035515s)
+[2018.12.10-13.42.17:085][327]LogAIModule: Creating AISystem for world Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.42.17:086][327]LogPlayLevel: PIE: World Init took: (0.002390s)
+[2018.12.10-13.42.17:086][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting to /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting (0.038877s)
+[2018.12.10-13.42.17:213][327]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE 20 MS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.10-13.42.17:251][327]LogInit: FAudioDevice initialized.
+[2018.12.10-13.42.17:305][327]LogLoad: Game class is 'GameModeBase'
+[2018.12.10-13.42.17:311][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting up for play (max tick rate 60) at 2018.12.10-15.42.17
+[2018.12.10-13.42.17:312][327]LogWorld: Bringing up level for play took: 0.004808
+[2018.12.10-13.42.17:338][327]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2018.12.10-13.42.17:340][327]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting -0.504
+[2018.12.10-13.42.17:341][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.21:693][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.21:694][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.42.21:789][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-13.42.21:789][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.21:809][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.42.21:829][411]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.10-13.42.26:537][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.26:537][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-13.42.26:537][653]PIE: New page: PIE session: Tyrone_ArchVis_Pre_Lighting (Dec 10, 2018, 5:42:26 PM)
+[2018.12.10-13.42.26:538][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.42.26:557][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018878s)
+[2018.12.10-13.42.26:557][653]LogAIModule: Creating AISystem for world Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.42.26:558][653]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.12.10-13.42.26:558][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting to /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting (0.020161s)
+[2018.12.10-13.42.26:603][653]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE 20 MS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.10-13.42.26:621][653]LogInit: FAudioDevice initialized.
+[2018.12.10-13.42.26:629][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.42.26:670][653]LogLoad: Game class is 'GameModeBase'
+[2018.12.10-13.42.26:672][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting up for play (max tick rate 60) at 2018.12.10-15.42.26
+[2018.12.10-13.42.26:673][653]LogWorld: Bringing up level for play took: 0.002660
+[2018.12.10-13.42.26:690][653]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting 0.846
+[2018.12.10-13.42.26:691][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.42.26:892][653]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.10-13.42.28:690][676]LogRenderer: Reallocating scene render targets to support 1920x1028 Format 10 NumSamples 1 (Frame:25).
+[2018.12.10-13.43.17:315][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.17:316][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.43.17:337][  8]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-13.43.17:457][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-13.43.17:457][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.17:654][  9]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.10-13.43.22:674][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.22:674][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-13.43.22:674][124]PIE: New page: PIE session: Tyrone_ArchVis_Pre_Lighting (Dec 10, 2018, 5:43:22 PM)
+[2018.12.10-13.43.22:674][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.43.22:693][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018149s)
+[2018.12.10-13.43.22:693][124]LogAIModule: Creating AISystem for world Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-13.43.22:694][124]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.12.10-13.43.22:694][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting to /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting (0.019487s)
+[2018.12.10-13.43.22:738][124]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE 20 MS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.10-13.43.22:752][124]LogInit: FAudioDevice initialized.
+[2018.12.10-13.43.22:786][124]LogLoad: Game class is 'GameModeBase'
+[2018.12.10-13.43.22:789][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting up for play (max tick rate 60) at 2018.12.10-15.43.22
+[2018.12.10-13.43.22:789][124]LogWorld: Bringing up level for play took: 0.002253
+[2018.12.10-13.43.22:803][124]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting 0.958
+[2018.12.10-13.43.22:803][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.24:713][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.24:714][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.43.24:811][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-13.43.24:812][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-13.43.24:851][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-13.43.24:865][159]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.10-13.43.51:070][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.027
+[2018.12.10-13.46.47:739][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-14.13.38:813][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.14.43:898][401]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.10-14.14.45:821][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.15.04:147][834]Cmd: TRANSACTION UNDO
+[2018.12.10-14.15.04:147][834]LogEditorTransaction: Undo Edit R
+[2018.12.10-14.15.30:471][252]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto83E8E6874F7978CEFD399BABBB7C10AD.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto0.umap'
+[2018.12.10-14.15.30:476][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.547
+[2018.12.10-14.15.30:476][252]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.547
+[2018.12.10-14.21.26:073][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.21.26:156][660]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-14.21.26:178][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-14.21.26:178][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-14.21.26:178][660]PIE: New page: PIE session: Tyrone_ArchVis_Pre_Lighting (Dec 10, 2018, 6:21:26 PM)
+[2018.12.10-14.21.26:178][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-14.21.26:208][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029818s)
+[2018.12.10-14.21.26:210][660]LogAIModule: Creating AISystem for world Tyrone_ArchVis_Pre_Lighting
+[2018.12.10-14.21.26:210][660]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2018.12.10-14.21.26:211][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting to /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting (0.032239s)
+[2018.12.10-14.21.26:297][660]LogInit: XAudio2 using 'Headset Earphone (Jabra EVOLVE 20 MS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.10-14.21.26:316][660]LogInit: FAudioDevice initialized.
+[2018.12.10-14.21.26:348][660]LogLoad: Game class is 'GameModeBase'
+[2018.12.10-14.21.26:352][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting up for play (max tick rate 60) at 2018.12.10-16.21.26
+[2018.12.10-14.21.26:352][660]LogWorld: Bringing up level for play took: 0.003536
+[2018.12.10-14.21.26:366][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tyrone_ArchVis_Pre_Lighting 0.477
+[2018.12.10-14.21.26:366][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-14.21.37:156][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-14.21.37:157][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-14.21.37:289][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-14.21.37:289][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting' with GeneratedClass '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting_C' with ClassGeneratedBy '/Game/Maps/Tyrone_ArchVis_Pre_Lighting.Tyrone_ArchVis_Pre_Lighting:PersistentLevel.Tyrone_ArchVis_Pre_Lighting'
+[2018.12.10-14.21.37:325][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-14.21.37:442][794]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.10-14.21.40:733][828]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.12.10-14.21.46:329][883]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture2)
+[2018.12.10-14.21.54:050][959]Cmd: TRANSACTION UNDO
+[2018.12.10-14.21.54:051][959]LogEditorTransaction: Undo Move Actors
+[2018.12.10-14.21.54:580][964]Cmd: TRANSACTION UNDO
+[2018.12.10-14.21.54:580][964]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-14.21.55:255][972]Cmd: TRANSACTION UNDO
+[2018.12.10-14.21.55:255][972]LogEditorTransaction: Undo Move Actors
+[2018.12.10-14.21.59:637][ 17]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2018.12.10-14.22.17:807][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.22.17:889][214]MapCheck: New page: Map Check
+[2018.12.10-14.22.18:053][214]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-14.22.18:053][214]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-14.22.18:205][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.10-14.22.18:232][214]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.22.18:232][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:270][214]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.22.18:270][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:301][214]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.22.18:301][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:327][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:356][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BrickWall_Blue, compiling. 
+[2018.12.10-14.22.18:386][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:411][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.12.10-14.22.18:432][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:458][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.12.10-14.22.18:479][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:502][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.12.10-14.22.18:525][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:551][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:577][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_2_Inst, compiling. 
+[2018.12.10-14.22.18:599][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:621][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:642][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:664][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:680][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:700][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mug, compiling. 
+[2018.12.10-14.22.18:720][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Book_Mat_Inst, compiling. 
+[2018.12.10-14.22.18:739][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.12.10-14.22.18:759][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_1, compiling. 
+[2018.12.10-14.22.18:778][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FlashLight_Mat_LIT_Inst, compiling. 
+[2018.12.10-14.22.18:798][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoathookBack, compiling. 
+[2018.12.10-14.22.18:819][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coathook, compiling. 
+[2018.12.10-14.22.18:840][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Socket, compiling. 
+[2018.12.10-14.22.18:859][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.12.10-14.22.18:881][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crayon, compiling. 
+[2018.12.10-14.22.18:895][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.12.10-14.22.18:911][214]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.10-14.22.23:355][214]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.10-14.22.23:356][214]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.22.23:356][214]TextureStreamingBuild: Display: Compiling optional shaders took 5.164 seconds.
+[2018.12.10-14.22.23:896][214]LogLevel: Display: Export Material TexCoord Scales took 0.540 seconds.
+[2018.12.10-14.22.23:929][214]TextureStreamingBuild: Display: Build Texture Streaming took 0.032 seconds.
+[2018.12.10-14.22.23:951][214]LightingResults: New page: Lighting Build - Dec 10, 2018, 6:22:23 PM
+[2018.12.10-14.22.23:958][214]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-14.22.23:962][214]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-14.22.23:962][214]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-14.22.23:964][214]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-14.22.23:964][214]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-14.22.33:009][214]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-14.22.33:009][214]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-14.22.33:009][214]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-14.22.33:009][214]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-14.22.33:009][214]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-14.22.33:306][214]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.10-14.22.33:306][214]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:22:33 PM
+[2018.12.10-14.22.33:308][214]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.052ms to complete.
+[2018.12.10-14.22.33:332][214]LogEditorBuildUtils: Build time 0:15
+[2018.12.10-14.23.25:355][796]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-14.23.25:356][796]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.23.26:560][810]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-14.23.26:560][810]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-14.23.26:561][810]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.23.29:206][841]Job is a success!
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-14.23.29:677][842]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.12.10-14.23.32:385][842]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-14.23.32:386][842]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-14.23.32:531][842]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 512X128)
+[2018.12.10-14.23.32:531][842]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 32X32)
+[2018.12.10-14.23.32:531][842]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 32X32)
+[2018.12.10-14.23.32:531][842]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 1024X512)
+[2018.12.10-14.23.32:549][842]Lightmass on TYRONEOGGEN1: 58.2 sec total, 461 ms importing, 114 ms setup, 3.72 sec photons, 53.1 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 3:32 min total, 2:25 min processing.
+[2018.12.10-14.23.32:601][842]LogStaticLightingSystem: Illumination: 1:08 min (2.53 sec encoding lightmaps, 140 ms encoding shadowmaps)
+[2018.12.10-14.23.32:601][842]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.4 MB streaming, 0.7 MB non-streaming), 10 textures
+[2018.12.10-14.23.32:601][842]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.12.10-14.23.33:080][842]DumpUnbuiltLightIteractions
+[2018.12.10-14.23.33:081][842]Lights with unbuilt interactions: 0
+[2018.12.10-14.23.33:081][842]
+[2018.12.10-14.23.33:081][842]Primitives with unbuilt interactions: 0
+[2018.12.10-14.23.34:148][843]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-14.23.34:149][843]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:23:34 PM
+[2018.12.10-14.23.34:151][843]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.831ms to complete.
+[2018.12.10-14.24.10:691][274]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.24.10:794][274]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.24.31:146][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.24.33:104][582]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.10-14.24.34:662][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.25.47:162][169]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto22BEEBCF470AA8F578EAFC97E7FE1963.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto1.umap'
+[2018.12.10-14.25.47:168][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.370
+[2018.12.10-14.25.47:168][169]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.370
+[2018.12.10-14.29.30:909][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.12.10-14.29.36:239][995]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.10-14.29.37:685][ 12]Cmd: TRANSACTION UNDO
+[2018.12.10-14.29.37:685][ 12]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-14.29.39:898][ 35]Cmd: TRANSACTION UNDO
+[2018.12.10-14.29.39:898][ 35]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-14.29.40:985][ 48]Cmd: TRANSACTION UNDO
+[2018.12.10-14.29.40:985][ 48]LogEditorTransaction: Undo Edit Threshold
+[2018.12.10-14.29.42:831][ 70]Cmd: TRANSACTION REDO
+[2018.12.10-14.29.42:831][ 70]LogEditorTransaction: Redo Edit Threshold
+[2018.12.10-14.30.26:028][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.30.36:328][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.31.08:854][928]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.12.10-14.31.24:708][145]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.24:708][145]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-14.31.26:089][166]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.26:089][166]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-14.31.26:831][176]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.26:831][176]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-14.31.27:541][186]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.27:541][186]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-14.31.28:625][200]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.28:625][200]LogEditorTransaction: Undo Edit Intensity
+[2018.12.10-14.31.30:809][230]Cmd: TRANSACTION UNDO
+[2018.12.10-14.31.30:809][230]LogEditorTransaction: Undo Edit Intensity
+[2018.12.10-14.31.43:908][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet2)
+[2018.12.10-14.31.50:788][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-14.31.58:286][526]MapCheck: New page: Map Check
+[2018.12.10-14.31.58:347][526]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-14.31.58:348][526]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-14.31.58:444][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.10-14.31.58:453][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:463][526]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.10-14.31.58:463][526]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.31.58:463][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:477][526]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.31.58:477][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:494][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:513][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BrickWall_Blue, compiling. 
+[2018.12.10-14.31.58:534][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:552][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.12.10-14.31.58:570][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:587][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.12.10-14.31.58:605][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:624][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.12.10-14.31.58:644][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:664][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:684][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_2_Inst, compiling. 
+[2018.12.10-14.31.58:704][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:721][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:738][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:752][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:769][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:785][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mug, compiling. 
+[2018.12.10-14.31.58:800][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Book_Mat_Inst, compiling. 
+[2018.12.10-14.31.58:813][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.12.10-14.31.58:828][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_1, compiling. 
+[2018.12.10-14.31.58:845][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FlashLight_Mat_LIT_Inst, compiling. 
+[2018.12.10-14.31.58:866][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoathookBack, compiling. 
+[2018.12.10-14.31.58:883][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coathook, compiling. 
+[2018.12.10-14.31.58:898][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Socket, compiling. 
+[2018.12.10-14.31.58:914][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.12.10-14.31.58:930][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crayon, compiling. 
+[2018.12.10-14.31.58:947][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.12.10-14.31.58:964][526]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.10-14.32.04:291][526]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.10-14.32.04:292][526]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.32.04:292][526]TextureStreamingBuild: Display: Compiling optional shaders took 5.852 seconds.
+[2018.12.10-14.32.04:834][526]LogLevel: Display: Export Material TexCoord Scales took 0.542 seconds.
+[2018.12.10-14.32.04:864][526]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2018.12.10-14.32.04:883][526]LightingResults: New page: Lighting Build - Dec 10, 2018, 6:32:04 PM
+[2018.12.10-14.32.04:892][526]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-14.32.04:897][526]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-14.32.04:897][526]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-14.32.04:900][526]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-14.32.04:900][526]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-14.32.09:431][526]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-14.32.09:431][526]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-14.32.09:432][526]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-14.32.09:432][526]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-14.32.09:432][526]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-14.32.09:692][526]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.10-14.32.09:692][526]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:32:09 PM
+[2018.12.10-14.32.09:693][526]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.12.10-14.32.09:695][526]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.832ms to complete.
+[2018.12.10-14.32.09:718][526]LogEditorBuildUtils: Build time 0:11
+[2018.12.10-14.32.09:724][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-14.32.22:067][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.32.25:723][722]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.32.25:753][722]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.32.30:634][783]Cmd: TRANSACTION UNDO
+[2018.12.10-14.32.30:635][783]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.10-14.32.54:749][981]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-14.32.54:749][981]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.32.55:007][982]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-14.32.55:007][982]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-14.32.55:008][982]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.32.56:124][985]Job is a success!
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-14.32.56:471][986]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-14.33.00:124][986]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.12.10-14.33.00:124][986]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.10-14.33.00:124][986]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.12.10-14.33.00:125][986]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.12.10-14.33.00:306][986]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 512X128)
+[2018.12.10-14.33.00:307][986]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 32X32)
+[2018.12.10-14.33.00:307][986]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 32X32)
+[2018.12.10-14.33.00:307][986]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X512)
+[2018.12.10-14.33.00:336][986]Lightmass on TYRONEOGGEN1: 49.5 sec total, 589 ms importing, 127 ms setup, 4.23 sec photons, 44.5 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 2:58 min total, 1:47 min processing.
+[2018.12.10-14.33.00:396][986]LogStaticLightingSystem: Illumination: 55.3 sec (3.48 sec encoding lightmaps, 179 ms encoding shadowmaps)
+[2018.12.10-14.33.00:396][986]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.4 MB streaming, 0.7 MB non-streaming), 10 textures
+[2018.12.10-14.33.00:396][986]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.12.10-14.33.00:519][986]DumpUnbuiltLightIteractions
+[2018.12.10-14.33.00:519][986]Lights with unbuilt interactions: 0
+[2018.12.10-14.33.00:519][986]
+[2018.12.10-14.33.00:519][986]Primitives with unbuilt interactions: 0
+[2018.12.10-14.33.01:830][987]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-14.33.01:830][987]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:33:01 PM
+[2018.12.10-14.33.01:834][987]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.021ms to complete.
+[2018.12.10-14.33.04:568][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.33.06:662][ 17]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.33.06:774][ 17]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.33.10:179][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.33.10:276][ 54]MapCheck: New page: Map Check
+[2018.12.10-14.33.10:473][ 54]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.10-14.33.10:473][ 54]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.10-14.33.10:582][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.10-14.33.10:594][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.33.10:594][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT_Inst, compiling. 
+[2018.12.10-14.33.10:609][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.33.10:609][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.12.10-14.33.10:636][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.33.10:636][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:657][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:678][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BrickWall_Blue, compiling. 
+[2018.12.10-14.33.10:701][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT_Inst, compiling. 
+[2018.12.10-14.33.10:719][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.12.10-14.33.10:739][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.12.10-14.33.10:763][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.12.10-14.33.10:785][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:807][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.12.10-14.33.10:831][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.12.10-14.33.10:856][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:881][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_2_Inst, compiling. 
+[2018.12.10-14.33.10:901][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:927][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:949][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:969][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.12.10-14.33.10:988][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.12.10-14.33.11:007][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mug, compiling. 
+[2018.12.10-14.33.11:031][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Book_Mat_Inst, compiling. 
+[2018.12.10-14.33.11:053][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.12.10-14.33.11:072][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_1, compiling. 
+[2018.12.10-14.33.11:090][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FlashLight_Mat_LIT_Inst, compiling. 
+[2018.12.10-14.33.11:114][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoathookBack, compiling. 
+[2018.12.10-14.33.11:132][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coathook, compiling. 
+[2018.12.10-14.33.11:149][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Socket, compiling. 
+[2018.12.10-14.33.11:170][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.12.10-14.33.11:190][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crayon, compiling. 
+[2018.12.10-14.33.11:214][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.12.10-14.33.11:230][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.10-14.33.18:915][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.10-14.33.18:915][ 54]TextureStreamingBuild: Display: Compiling optional shaders took 8.341 seconds.
+[2018.12.10-14.33.19:568][ 54]LogLevel: Display: Export Material TexCoord Scales took 0.652 seconds.
+[2018.12.10-14.33.19:613][ 54]TextureStreamingBuild: Display: Build Texture Streaming took 0.045 seconds.
+[2018.12.10-14.33.19:642][ 54]LightingResults: New page: Lighting Build - Dec 10, 2018, 6:33:19 PM
+[2018.12.10-14.33.19:650][ 54]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.10-14.33.19:655][ 54]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.10-14.33.19:656][ 54]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.10-14.33.19:658][ 54]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.10-14.33.19:658][ 54]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20660
+[2018.12.10-14.33.24:171][ 54]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.10-14.33.24:171][ 54]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.10-14.33.24:171][ 54]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.10-14.33.24:171][ 54]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.10-14.33.24:171][ 54]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.10-14.33.24:444][ 54]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.10-14.33.24:445][ 54]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:33:24 PM
+[2018.12.10-14.33.24:447][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.808ms to complete.
+[2018.12.10-14.33.24:470][ 54]LogEditorBuildUtils: Build time 0:14
+[2018.12.10-14.33.42:507][105]LightingResults: Warning: SM_FlashLight Object has overlapping UVs.
+[2018.12.10-14.33.42:507][105]LightingResults: SM_FlashLight Lightmap UV are overlapping by 29.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.33.42:840][106]LightingResults: Warning: S_Crayon_A Object has wrapping UVs.
+[2018.12.10-14.33.42:840][106]LightingResults: Warning: S_Crayon_A Object has overlapping UVs.
+[2018.12.10-14.33.42:840][106]LightingResults: S_Crayon_A Lightmap UV are overlapping by 73.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.10-14.33.43:505][108]Job is a success!
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.12.10-14.33.43:943][109]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.12.10-14.33.46:511][109]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.12.10-14.33.46:513][109]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.10-14.33.46:513][109]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.12.10-14.33.46:514][109]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.12.10-14.33.46:651][109]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 512X128)
+[2018.12.10-14.33.46:651][109]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 32X32)
+[2018.12.10-14.33.46:651][109]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 32X32)
+[2018.12.10-14.33.46:651][109]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X512)
+[2018.12.10-14.33.46:673][109]Lightmass on TYRONEOGGEN1: 21.2 sec total, 287 ms importing, 85 ms setup, 2.07 sec photons, 18.7 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 1:14 min total, 45.0 sec processing.
+[2018.12.10-14.33.46:718][109]LogStaticLightingSystem: Illumination: 26.7 sec (2.45 sec encoding lightmaps, 133 ms encoding shadowmaps)
+[2018.12.10-14.33.46:718][109]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.4 MB streaming, 0.7 MB non-streaming), 10 textures
+[2018.12.10-14.33.46:718][109]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.12.10-14.33.47:266][109]DumpUnbuiltLightIteractions
+[2018.12.10-14.33.47:266][109]Lights with unbuilt interactions: 0
+[2018.12.10-14.33.47:267][109]
+[2018.12.10-14.33.47:267][109]Primitives with unbuilt interactions: 0
+[2018.12.10-14.33.48:542][110]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.10-14.33.48:542][110]MapCheck: New page: Tyrone_ArchVis_Pre_Lighting - Dec 10, 2018, 6:33:48 PM
+[2018.12.10-14.33.48:552][110]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.565ms to complete.
+[2018.12.10-14.34.04:648][175]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.34.04:755][175]LogSlate: Window 'Message Log' being destroyed
+[2018.12.10-14.34.10:892][212]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.10-14.34.14:611][241]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.106 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.10-14.34.19:260][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.35.01:485][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.35.13:209][802]Cmd: TRANSACTION UNDO
+[2018.12.10-14.35.13:209][802]LogEditorTransaction: Undo Edit Intensity
+[2018.12.10-14.35.57:808][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-14.35.58:374][444]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Auto6C14AA2C46EF7B515A9953814657BF77.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Autosaves/Game/Maps/Tyrone_ArchVis_Pre_Lighting_Auto2.umap'
+[2018.12.10-14.35.58:381][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tyrone_ArchVis_Pre_Lighting' took 0.471
+[2018.12.10-14.35.58:381][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.471
+[2018.12.10-14.36.34:886][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.36.49:887][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.37.03:065][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-14.37.03:448][395]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting0C38E5024D237AF2A754ECA08FDC19A3.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting.umap'
+[2018.12.10-14.37.03:484][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData" FILE="../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset" SILENT=true
+[2018.12.10-14.37.04:568][395]LogSavePackage: Moving '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Saved/Tyrone_ArchVis_Pre_Lighting_Buil273DD37B436AD9C2B03113B411FE985E.tmp' to '../../../../../../Users/Tyrone.Oggen/Desktop/AV/Content/Maps/Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset'
+[2018.12.10-14.41.09:395][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.45.37:965][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-14.48.35:762][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
