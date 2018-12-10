@@ -1,0 +1,9 @@
+Tyrone_ArchVis_Auto1.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Auto2.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_Auto1.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Auto3.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Auto4.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_Auto2.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_Auto3.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_Auto4.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_Auto5.umap filter=lfs diff=lfs merge=lfs -text

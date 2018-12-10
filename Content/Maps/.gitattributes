@@ -1,0 +1,4 @@
+Tyrone_ArchVis.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting.umap filter=lfs diff=lfs merge=lfs -text
+Tyrone_ArchVis_Pre_Lighting_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

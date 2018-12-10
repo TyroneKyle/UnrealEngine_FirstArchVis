@@ -1,0 +1,4 @@
+BP_FlashLight.uasset filter=lfs diff=lfs merge=lfs -text
+FPS_Character.uasset filter=lfs diff=lfs merge=lfs -text
+MyGame.uasset filter=lfs diff=lfs merge=lfs -text
+TrafficMovingCarlights.uasset filter=lfs diff=lfs merge=lfs -text
